@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/fdn/Documents/Projects/Godot/godot-appodeal-demo-project/android/build/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "/Users/fdn/Documents/Projects/Godot/godot-appodeal-demo-project/android/build/res/values-en/godot_project_name_string.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "1",
+                        "startOffsets": "112",
+                        "endColumns": "63",
+                        "endOffsets": "174"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                },
+                {
+                    "source": "/Users/fdn/.gradle/caches/transforms-3/3529537d3e2f1c846f16426bbec06cc0/transformed/jetified-mobileads-5.4.1/res/values-en/values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,203,257,321,419,504,582,677,782,942,1034,1097,1173,1239,1333,1450,1600,1681,1754,1825,1898,1983,2062,2179",
+                        "endColumns": "87,59,53,63,97,84,77,94,104,159,91,62,75,65,93,116,149,80,72,70,72,84,78,116,169",
+                        "endOffsets": "138,198,252,316,414,499,577,672,777,937,1029,1092,1168,1234,1328,1445,1595,1676,1749,1820,1893,1978,2057,2174,2344"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "263,351,411,465,529,627,712,790,885,990,1150,1242,1305,1381,1447,1541,1658,1808,1889,1962,2033,2106,2191,2270,2387",
+                        "endColumns": "87,59,53,63,97,84,77,94,104,159,91,62,75,65,93,116,149,80,72,70,72,84,78,116,169",
+                        "endOffsets": "346,406,460,524,622,707,785,880,985,1145,1237,1300,1376,1442,1536,1653,1803,1884,1957,2028,2101,2186,2265,2382,2552"
+                    }
+                },
+                {
+                    "source": "/Users/fdn/.gradle/caches/transforms-3/ec4861af728dbcdb922aff2b3d5df417/transformed/jetified-ads-sdk-4.5.0.6/res/values-en/values-en.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,140",
+                        "endColumns": "84,55",
+                        "endOffsets": "135,191"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "122,207",
+                        "endColumns": "84,55",
+                        "endOffsets": "202,258"
+                    }
+                }
+            ]
+        }
+    ]
+}

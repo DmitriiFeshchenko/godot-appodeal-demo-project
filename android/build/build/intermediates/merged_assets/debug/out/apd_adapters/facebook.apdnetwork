@@ -1,0 +1,1 @@
+{"name":"facebook","adapter_version":"0","builder":"com.appodeal.ads.adapters.meta.MetaNetwork$builder","types":["banner", "mrec", "rewarded_video", "interstitial", "native"]}

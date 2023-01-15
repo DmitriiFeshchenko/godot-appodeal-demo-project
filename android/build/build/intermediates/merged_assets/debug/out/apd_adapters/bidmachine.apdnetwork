@@ -1,0 +1,1 @@
+{"name":"bidmachine","adapter_version":"0","builder":"com.appodeal.ads.adapters.bidmachine.BidMachineNetwork$builder","types":["banner", "mrec", "rewarded_video", "interstitial", "native", "video"]}

@@ -1,0 +1,1 @@
+{"name":"mraid","adapter_version":"0","builder":"com.appodeal.ads.adapters.mraid.MraidNetwork$builder","types":["banner", "mrec", "rewarded_video", "interstitial", "video"]}

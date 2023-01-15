@@ -1,0 +1,50 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+[application]
+
+config/name="godot-appodeal-demo-project"
+config/description="Appodeal Godot Plugin Demo Project"
+run/main_scene="res://DemoScene.tscn"
+boot_splash/image="res://logo.png"
+boot_splash/fullsize=false
+boot_splash/bg_color=Color( 0.254902, 0.270588, 0.419608, 1 )
+config/icon="res://icon.png"
+
+[autoload]
+
+Appodeal="*res://addons/appodeal/appodeal.gd"
+AppodealNetwork="*res://addons/appodeal/appodeal_network.gd"
+AppodealViewPosition="*res://addons/appodeal/appodeal_view_position.gd"
+
+[display]
+
+window/size/width=1080
+window/size/height=1920
+window/handheld/orientation="portrait"
+window/stretch/mode="2d"
+window/stretch/aspect="keep_width"
+
+[editor_plugins]
+
+enabled=PoolStringArray( "res://addons/appodeal/plugin.cfg" )
+
+[gui]
+
+common/drop_mouse_on_gui_input_disabled=true
+
+[physics]
+
+common/enable_pause_aware_picking=true
+
+[rendering]
+
+environment/default_clear_color=Color( 0.254902, 0.270588, 0.419608, 1 )
+environment/default_environment="res://default_env.tres"

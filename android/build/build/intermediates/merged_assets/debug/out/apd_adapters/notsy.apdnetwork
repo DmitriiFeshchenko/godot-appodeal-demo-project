@@ -1,0 +1,1 @@
+{"name":"notsy","adapter_version":"1","builder":"com.appodeal.ads.adapters.notsy.NotsyNetwork$builder","types":["banner", "mrec", "rewarded_video", "interstitial", "native"]}
