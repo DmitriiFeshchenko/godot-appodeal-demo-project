@@ -12,7 +12,7 @@ This project can be useful to get familiar with correct usage of Appodeal SDK AP
 
 ### [Godot Plugin](https://github.com/DmitriiFeshchenko/godot-appodeal-editor-plugin)
 
-### [Android Project](https://github.com/DmitriiFeshchenko/godot-appodeal-android-plugin)
+### [Android Plugin](https://github.com/DmitriiFeshchenko/godot-appodeal-android-plugin)
 
 ### [iOS Plugin](https://github.com/DmitriiFeshchenko/godot-appodeal-ios-plugin)
 
