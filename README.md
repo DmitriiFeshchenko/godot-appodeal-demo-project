@@ -4,7 +4,7 @@ This project can be useful to get familiar with correct usage of Appodeal SDK AP
 
 *To build this demo project for **iOS platform** some additional steps are required:*
 
-1. Download Appodeal iOS SDK fat build archive from the [official website](https://wiki.appodeal.com/en/ios/get-started)
+1. Download Appodeal iOS SDK fat build archive from the [official website](https://docs.appodeal.com/ios/get-started)
 2. Rename `Resources` folder to `APDResources`
 3. Copy all downloaded folders into `/ios/plugins/appodeal/Frameworks` directory
 
