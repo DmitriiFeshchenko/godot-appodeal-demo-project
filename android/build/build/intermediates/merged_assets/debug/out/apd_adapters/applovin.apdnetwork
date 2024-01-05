@@ -1,1 +1,0 @@
-{"name":"applovin","adapter_version":"1","builder":"com.appodeal.ads.adapters.applovin.ApplovinNetwork$builder","types":["banner", "mrec", "rewarded_video", "interstitial", "video"]}
