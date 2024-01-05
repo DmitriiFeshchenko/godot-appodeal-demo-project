@@ -56,7 +56,6 @@ func _on_InitButton_pressed():
 	Appodeal.set_user_id("007")
 	Appodeal.mute_videos_if_calls_muted(true)
 	Appodeal.set_child_directed_treatment(false)
-	Appodeal.disable_web_view_cache_clear()
 	Appodeal.set_custom_filter_bool("be", true)
 	Appodeal.set_custom_filter_int("answer", 42)
 	Appodeal.set_custom_filter_float("temp", -35.5)
