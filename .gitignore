@@ -1,5 +1,7 @@
 .DS_Store
+.idea/
 
+android/build/
 ios/plugins/appodeal/Frameworks/*/
 
 # Godot-specific ignores
